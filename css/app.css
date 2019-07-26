@@ -1,0 +1,15 @@
+tr {
+    color: black
+}
+tr:nth-child(3n) {
+    background-color: #6276A3;
+    color: #fff;
+}
+tr:nth-child(5n) {
+    background-color: #8AA6E5;
+    color: #fff;
+}
+tr:nth-child(15n) {
+    background-color: #262E40;
+    color: #fff;
+}
